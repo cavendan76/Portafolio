@@ -1,0 +1,29 @@
+.body {
+    font-family: 'Roboto, light';
+}
+.container {
+    font-family: 'Roboto, light';
+}
+.logo {
+width: 86px;
+height: 25px;
+}
+.info {
+    margin-left: 15px;
+}
+.section1 {
+    margin-left: 15px;
+}
+
+.form-control {
+    font-family: 'Roboto, Medium';
+    font-size: 21px;
+}
+.btn {
+    font-family:'Roboto, medium';
+    font-size: 16px;
+}
+.container-fluid {
+    font-family: 'Roboto,light';
+    font-size: 16px;
+}
